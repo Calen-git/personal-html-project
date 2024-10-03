@@ -13,7 +13,9 @@ body {
   background-image: url(images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-position: center;
+  height: 100vh;
 }
 
 h1 {
@@ -46,4 +48,24 @@ p {
   height: 600px;
   margin-left: 420px;
   margin-bottom: 500px;
+}
+
+#Slowroads {
+  margin-top: -250px;
+}
+
+#Bricklink {
+  margin-top: -1000px;
+}
+
+#Flash-Ghetto {
+  margin-top: -1000px;
+}
+
+#Little-alchemy {
+  margin-top: -1000px;
+}
+
+#bored-button {
+  margin-top: -1000px;
 }
