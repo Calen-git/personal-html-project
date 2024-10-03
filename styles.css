@@ -52,25 +52,30 @@ p {
 
 #Slowroads {
   margin-top: -250px;
+  margin-left: 575px;
 }
 
 #Bricklink {
   margin-top: -1000px;
+  margin-left: 575px;
 }
 
 #Flash-Ghetto {
   margin-top: -1000px;
+  margin-left: 575px;
 }
 
 #Little-alchemy {
   margin-top: -1000px;
+  margin-left: 575px;
 }
 
 #bored-button {
   margin-top: -1000px;
+  margin-left: 575px;
 }
 
-#star {
-  margin-left: 750px;
-  margin-top: -5000px;
+blockquote {
+  margin-top: -1050px;
+  margin-left: 400px;
 }
